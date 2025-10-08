@@ -1,0 +1,6 @@
+com\tka\utility\Utility.class
+com\tka\controller\BankAccountController.class
+com\tka\entity\BankAccount.class
+com\tka\config\HibernateConfig.class
+com\tka\dao\BankAccountDao.class
+com\tka\service\BankAccountService.class
